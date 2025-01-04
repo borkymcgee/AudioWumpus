@@ -83,7 +83,7 @@ async function playerMoved(){
     caveSystem[playerCave].forEach((nearRoom) => {
         if(nearRoom == pitCave1 || nearRoom == pitCave2) playerMessage += " It feels drafty.";
         if(nearRoom == batCave1 || nearRoom == batCave2) playerMessage += " It sounds flappy.";
-        if(nearRoom == wumpusCave) playerMessage += " You smell pussy.";
+        if(nearRoom == wumpusCave) playerMessage += " You smell the wumpus.";
     })
     //give them their options
     playerMessage += " Move, shoot, repeat."
