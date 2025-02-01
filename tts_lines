@@ -1,0 +1,42 @@
+pit_death		"You fall into a pit"
+bumped_wumpus	"Oops! Bumped a Wumpus!"
+lost			"The wumpus ate you"
+bats			"you've been picked up by bats"
+current_room	"you are in room: "
+draft			"You feel a draft"
+flapping		"You hear flapping"
+smell			"You smell a wumpus"
+move_shoot		"Move, Shoot, or repeat"
+move_options	"Movement options: "
+shoot_rooms		"Number of rooms to shoot through: 1, 2, more"
+arrow_options	"arrow room, options are: "
+confirm_arrow	"confirm, redo, repeat"
+won				"you killed the wumpus!"
+wild_arrow		"Arrows aren't that crooked, it goes wild through: "
+arrow_gotcha	"Oof! the arrow got you!"
+missed			"You missed!"
+1	1
+2	2
+3	3
+4	4
+5	5
+6	6
+7	7
+8	8
+9	9
+10	10
+11	11
+12	12
+13	13
+14	14
+15	15
+16	16
+17	17
+18	18
+19	19
+20	20
+first	first
+second	second
+third	third
+fourth	fourth
+fifth	fifth

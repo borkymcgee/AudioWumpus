@@ -49,6 +49,14 @@ async function validKey(){
     return keyCode.which;
 }
 
+  console.log(window.speechSynthesis.getVoices());
+""
+
+var msg = new SpeechSynthesisUtterance();
+msg.text = "Hello World";
+window.speechSynthesis.speak(msg);
+
+
 playerMoved();
 
 //report dangers and state, ask to move or shoot
